@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "2.1",
+	"FriendlyName": "GOAP NPC",
+	"Description": "Goal-Oriented Action Planning for Non-Player Characters",
+	"Category": "AI",
+	"CreatedBy": "Narratech Laboratories",
+	"CreatedByURL": "https://narratech.com",
+	"DocsURL": "https://narratech.com/project/goap-npc",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/40c1ae5f1b284d70bcc863bc98ccf68d",
+	"SupportURL": "https://www.unrealengine.com/marketplace/en-US/product/goap-npc-goal-oriented-action-planning-for-non-player-characters",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "GOAPNPC",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		}
+	]
+}
